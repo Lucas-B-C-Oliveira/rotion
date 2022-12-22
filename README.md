@@ -1,7 +1,7 @@
 
 # Rotion
 
-Esse projeto trata-se da documentação e aplicação desenvolvida no curso "Apps desktop com Electron" na trilha Ignite/Cursos Exclusivos da Rocketseat. Esse curso e projeto tem como objetivo desenvolver uma aplicação inspirada no Notion, para fins de aprendizado com o Electron
+Esse projeto trata-se da aplicação desenvolvida no curso "Apps desktop com Electron" na trilha Ignite/Cursos Exclusivos da Rocketseat. Esse curso e projeto tem como objetivo desenvolver uma aplicação inspirada no Notion, para fins de aprendizado com o Electron
 
 
 ## Stack utilizada

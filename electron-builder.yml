@@ -13,7 +13,7 @@ asarUnpack:
 win:
   target: 'nsis'
   artifactName: ${name}-${version}-setup.${ext}
-  icon: 'build/icon.ico'
+  icon: 'build/icon.png'
   publisherName: ${name}
 
 mac:
